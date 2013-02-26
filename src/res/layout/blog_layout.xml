@@ -23,7 +23,7 @@
 		</FrameLayout>			
 	</RelativeLayout>	
 	<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
-	<!--拖动加载-->
+	<!--鎷栧姩鍔犺浇-->
    <com.cnblogs.android.controls.PullToRefreshListView 
      android:id="@+id/blog_list"
      style="@style/listview_style">

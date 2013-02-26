@@ -67,7 +67,7 @@
 					   ></TextView>
 					   <TextView android:textSize="12sp"
 							android:id="@+id/recommend_text_date_label"
-							android:text="发表:"
+							android:text="鍙戣〃:"
 							android:layout_width="wrap_content"
 							android:layout_height="wrap_content"
 							></TextView>
@@ -79,7 +79,7 @@
 						<TextView android:textSize="12sp"
 							android:id="@+id/recommend_text_diggs_label"
 							android:layout_marginLeft="4sp"
-							android:text="分类:"
+							android:text="鍒嗙被:"
 							android:layout_width="wrap_content"
 							android:layout_height="wrap_content"
 							></TextView>

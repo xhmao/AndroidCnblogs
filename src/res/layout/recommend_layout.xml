@@ -15,7 +15,7 @@
 		android:text="@string/btn_text_back"
 		android:layout_centerVertical="true"
 		android:layout_marginLeft="@dimen/btn_back_margin_left"/>
-		<!--推荐应用-->
+		<!--鎺ㄨ崘搴旂敤-->
 		<TextView android:id="@+id/txtAppTitle"
 		android:text="@string/title_more"
 		android:layout_centerInParent="true"

@@ -13,7 +13,7 @@
 			android:text="@string/btn_text_back"
 			android:layout_centerVertical="true"
 			android:layout_marginLeft="@dimen/btn_back_margin_left"/>			
-		<!-- 刷新按钮 -->
+		<!-- 鍒锋柊鎸夐挳 -->
 		<FrameLayout android:id="@+id/frameLayout" style="@style/toolbar_fl_style">
 			<ProgressBar
 				mce_style="?android:attr/progressBarStyleLarge"

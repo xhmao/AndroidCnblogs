@@ -3,7 +3,7 @@ package com.cnblogs.android.entity;
 import java.util.Date;
 
 /**
- * ²©¿ÍÓÃ»§
+ * åšå®¢ç”¨æˆ·
  * 
  * @author walkingp date:2011-12-10
  */

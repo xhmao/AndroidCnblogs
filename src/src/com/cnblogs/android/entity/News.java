@@ -3,7 +3,7 @@ package com.cnblogs.android.entity;
 import java.util.Date;
 
 /**
- * ĞÂÎÅÀà
+ * æ–°é—»ç±»
  * 
  * @author walkingp
  * 
@@ -83,7 +83,7 @@ public class News {
 		return _commentNum;
 	}
 	/**
-	 * ÖØĞ´
+	 * é‡å†™
 	 */
 	@Override
 	public boolean equals(Object obj) {

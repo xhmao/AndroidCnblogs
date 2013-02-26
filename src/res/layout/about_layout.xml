@@ -42,7 +42,7 @@
     	android:layout_height="wrap_content"/>	
 	</LinearLayout>
 	</LinearLayout>
-	<!--评价-->
+	<!--璇勪环-->
 		<Button android:id="@+id/about_weibo_btn"
 		style="@style/btn_weibo_style"
 		android:text="@string/about_goto_market"
